@@ -3,8 +3,9 @@
   "displayName": "Bamboo Theme",
   "description": "Theme inspired by nature",
   "version": "0.0.1",
+  "publisher": "marlodev",
   "engines": {
-     "vscode": "^1.97.0"
+    "vscode": "^1.97.0"
   },
   "categories": [
     "Themes"
@@ -20,12 +21,16 @@
     "type": "git",
     "url": "https://github.com/marlodevhub/bamboo-theme"
   },
+  "bugs": {
+    "url": "https://github.com/marlodevhub/bamboo-theme/issues"
+  },
   "icon": "icons/Bamboo-icon.png",
   "author": {
     "name": "Silva Marlo Nilton Hugo",
     "email": "silvamarlo3990@gmail.com",
     "url": "https://www.marlodev.com"
   },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
