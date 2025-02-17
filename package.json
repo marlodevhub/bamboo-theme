@@ -3,7 +3,7 @@
   "displayName": "Bamboo Theme",
   "description": "Theme inspired by nature",
   "version": "0.0.1",
-  "publisher": "marlodev",
+  "publisher": "Marlodev",
   "engines": {
     "vscode": "^1.97.0"
   },
